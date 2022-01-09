@@ -1,4 +1,4 @@
-### Olá! Meu nome é Arthur de Andrade Simões e atualmente sou estudante de desenvolvimento web na (trybe)[https://www.betrybe.com/]
+### Olá! Meu nome é Arthur de Andrade Simões e atualmente sou estudante de desenvolvimento web na [trybe](https://www.betrybe.com/)
 
 <div align="center">
   <a href="https://github.com/ArthurSimoess">
