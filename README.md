@@ -1,4 +1,4 @@
-### Olá! Meu nome é Arthur de Andrade Simões 👨🏾‍💻
+### Olá! Sou estudante de desenvolvimento web full stack na Trybe 👨🏾‍💻
 
 ##
 
