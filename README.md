@@ -1,4 +1,4 @@
-### Olá! Sou estudante de desenvolvimento web full stack na Trybe 👨🏾‍💻
+### Olá! Sou desenvolvedor Front-end e estudante de desenvolvimento web full stack na Trybe 👨🏾‍💻
 
 ##
 
