@@ -1,4 +1,4 @@
-### Olá! Sou desenvolvedor Front-end e estudante de desenvolvimento web full stack na Trybe 👨🏾‍💻
+### Olá! Sou desenvolvedor web full stack na Resolva meu look e formado em desenvolvimento web na Trybe 👨🏾‍💻
 
 ##
 
