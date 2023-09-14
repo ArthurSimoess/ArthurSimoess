@@ -1,4 +1,4 @@
-### Olá! Sou desenvolvedor web full stack na Resolva meu look e formado em desenvolvimento web pela [Trybe](https://www.betrybe.com/) 👨🏾‍💻
+### Olá! Sou desenvolvedor web full stack na Resolva meu look, trabalho diaramente com react native, node, typescript e mySql. 👨🏾‍💻
 
 
 <div align="center">
