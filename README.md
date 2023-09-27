@@ -1,4 +1,4 @@
-### Olá! Sou desenvolvedor web full stack na Resolva meu look, trabalho diaramente com react native, node, typescript e mySql. 👨🏾‍💻
+### Olá! Sou desenvolvedor mobile e web full stack na Resolva meu look, trabalho diaramente com react native, react, node, typescript e mySql. 👨🏾‍💻
 
 
 <div align="center">
